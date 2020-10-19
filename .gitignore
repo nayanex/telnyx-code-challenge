@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+.vscode/
+.noseids
+.idea/
+.pytest_cache/
+venv/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
